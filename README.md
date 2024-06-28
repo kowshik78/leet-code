@@ -9,6 +9,9 @@ https://leetcode.com/problems/palindrome-number/description/
 ## Remove Duplicates from sorted Array
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 
+## Remove Element
+https://leetcode.com/problems/remove-element/description/
+
 ## Roman to Integer
 https://leetcode.com/problems/roman-to-integer/description/
 
