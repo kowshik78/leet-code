@@ -22,7 +22,7 @@ public class removeDuplicate {
         List<Integer> result = solution.removeDuplicates(nums);
 
             System.out.println(result.size());
-            System.out.println(result);
+                System.out.println(result);
     }
 }
 
